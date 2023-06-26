@@ -9,3 +9,27 @@ I am currently currently learning the necessary technologies to develop as a Ful
 I am interested in enhancing and transferring my knowledge as an audiovisual designer to Front End development.
 
 I consider myself a responsible,passionate, committed person and constantly growing with a very good predisposition in learning new tools and innovative ways to develop applications.
+ 
+Libraries
+
+  
+Frameworks
+
+  
+Web-Dev
+
+ 
+Database
+
+ 
+Project Management
+
+
+Design
+
+    
+Version Control
+
+ 
+IDE
+
