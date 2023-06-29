@@ -13,7 +13,7 @@
 
 <div style="display:flex;flex-direction:column;max-height:250px;flex-wrap:wrap;justify-content:center">
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlCabezon&layout=compact&theme=gruvbox" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlCabezon" />
  
 </div>
 
